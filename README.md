@@ -1,5 +1,5 @@
 # my-strategy
-# 📘 PDF Resources
+## 📘 PDF Resources
 
 Welcome to this repository!  
 It contains the following helpful PDF files:
@@ -8,4 +8,4 @@ It contains the following helpful PDF files:
 - [G3 Bot Summary](https://github.com/Waweruz/my-strategy/blob/main/G3%20BOT%20SUMMARY.pdf)
 - [Candle Stick Bible](https://github.com/Waweruz/my-strategy/blob/main/candle-stick-bible.pdf)
 
-You can click the links above to **view** the documents online.
+Click any link above to view the PDF file online.
